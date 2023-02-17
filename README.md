@@ -3,7 +3,7 @@
 ### Tópicos
 
 :small_blue_diamond: [Descrição do projeto](#descrição) </br>
-:small_blue_diamond: [Técnicas e tecnologias utilizadas no projeto](#tcnicas-e-tecnologias-utilizadas) </br>
+:small_blue_diamond: [Técnicas e tecnologias utilizadas no projeto](#técnicas-e-tecnologias-utilizadas) </br>
 :small_blue_diamond: [Cenários de testes ](#cenário-de-testes) </br>
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos) </br>
 :small_blue_diamond: [Executando o projeto](#executando-o-projeto) </br>
