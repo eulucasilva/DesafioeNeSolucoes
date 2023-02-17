@@ -4,10 +4,10 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição) </br>
 :small_blue_diamond: [Técnicas e tecnologias utilizadas no projeto](#tcnicas-e-tecnologias-utilizadas) </br>
-:small_blue_diamond: [Cenários de testes ](#cenrio-de-testes) </br>
-:small_blue_diamond: [Pré-requisitos](#pr-requisitos) </br>
+:small_blue_diamond: [Cenários de testes ](#cenário-de-testes) </br>
+:small_blue_diamond: [Pré-requisitos](#pré-requisitos) </br>
 :small_blue_diamond: [Executando o projeto](#executando-o-projeto) </br>
-:small_blue_diamond: [Relatórios](#relatrio-de-execuo-dos-cenrios) </br>
+:small_blue_diamond: [Relatórios](#relatrio-de-execução-dos-cenários) </br>
 
 
 ## Descrição
@@ -45,7 +45,6 @@
 - Baixar e instalar o [Intellij Community Edition](https://www.jetbrains.com/pt-br/idea/download/download-thanks.html?platform=windows&code=IIC) 
 - Clonar o projeto na sua máquina através do comando git ou baixar o projeto, descompactá-lo e importar para o Intellij;
 - Localizar nos diretórios,
-- 
 
 ## Executando o projeto
 
