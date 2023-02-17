@@ -7,7 +7,7 @@
 :small_blue_diamond: [Cenários de testes ](#cenário-de-testes) </br>
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos) </br>
 :small_blue_diamond: [Executando o projeto](#executando-o-projeto) </br>
-:small_blue_diamond: [Relatórios](#relatrio-de-execução-dos-cenários) </br>
+:small_blue_diamond: [Relatórios](#relatório-de-execução-dos-cenários) </br>
 
 
 ## Descrição
