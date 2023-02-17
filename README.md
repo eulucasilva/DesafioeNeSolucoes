@@ -7,7 +7,8 @@
 :small_blue_diamond: [Cenários de testes ](#cenário-de-testes) </br>
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos) </br>
 :small_blue_diamond: [Executando o projeto](#executando-o-projeto) </br>
-:small_blue_diamond: [Relatórios](#relatório-de-execução-dos-cenários) </br>
+:small_blue_diamond: [Gif de execução do teste](#gif-de-execução-do-teste) </br>
+:small_blue_diamond: [Relatório](#relatório-de-execução-dos-cenários) </br>
 
 
 ## Descrição
@@ -54,6 +55,9 @@
 - Localizar a classe java RunnerTest em <i>src/test/java/runners</i>;
 - Clicar no ícone PLAY para executar o projeto de testes.
 
+## Gif de execução do teste
+
+![GifExecucao](https://user-images.githubusercontent.com/17802288/219817287-b76e4300-c5f6-43cd-b6d0-db8b38c9cc2d.gif)
 
 ## Relatório de execução dos cenários 
 
