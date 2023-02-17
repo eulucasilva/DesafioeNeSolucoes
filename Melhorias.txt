@@ -8,6 +8,6 @@
 
 # Resultado e melhoria:
 	Ao clicar na sacola, o usuário é direcionado para outra tela e mostra os itens da sacola.
-    Sugestão: Adicionar um modal ao clicar na sacola, facilitando a usabilidade do site.
+   	Sugestão: Adicionar um modal ao clicar na sacola, facilitando a usabilidade do site.
 
 # Criado por:	Lucas Silva
