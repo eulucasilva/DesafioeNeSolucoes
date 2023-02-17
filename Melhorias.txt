@@ -1,0 +1,13 @@
+# Título:	Troca de tela ao clicar na sacola
+
+# Ambiente/ URL:	https://www.magazineluiza.com.br/
+
+# Etapas para reproduzir:
+1-	Acessar o link da loja MAGAZINE LUIZA
+2-	Clicar na sacola do canto superior direito”
+
+# Resultado e melhoria:
+	Ao clicar na sacola, o usuário é direcionado para outra tela e mostra os itens da sacola.
+    Sugestão: Adicionar um modal ao clicar na sacola, facilitando a usabilidade do site.
+
+# Criado por:	Lucas Silva
