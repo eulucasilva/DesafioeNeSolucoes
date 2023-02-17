@@ -44,6 +44,7 @@
 - [Maven](https://maven.apache.org/download.cgi) configurado nas variáveis de ambiente ([tutorial aqui](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26));
 - Baixar e instalar o [Intellij Community Edition](https://www.jetbrains.com/pt-br/idea/download/download-thanks.html?platform=windows&code=IIC);
 - Clonar o projeto na sua máquina através do comando git ou baixar o projeto, descompactá-lo e importar para o Intellij;
+- Instalar o plugin do cucumber na IDE (Intellij)
 
 ## Executando o projeto
 
