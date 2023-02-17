@@ -41,10 +41,9 @@
 <p>Para executar o projeto na sua máquina, é necessário:</p>
 
 - JDK 8;
-- [Maven](https://maven.apache.org/download.cgi) configurado nas variáveis de ambiente ([tutorial aqui](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26))
-- Baixar e instalar o [Intellij Community Edition](https://www.jetbrains.com/pt-br/idea/download/download-thanks.html?platform=windows&code=IIC) 
+- [Maven](https://maven.apache.org/download.cgi) configurado nas variáveis de ambiente ([tutorial aqui](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26));
+- Baixar e instalar o [Intellij Community Edition](https://www.jetbrains.com/pt-br/idea/download/download-thanks.html?platform=windows&code=IIC);
 - Clonar o projeto na sua máquina através do comando git ou baixar o projeto, descompactá-lo e importar para o Intellij;
-- Localizar nos diretórios,
 
 ## Executando o projeto
 
@@ -52,8 +51,9 @@
 
 - Baixar as dependências do Maven no projeto (caso nao baixa automaticamente ao importar o projeto);
 - Localizar a classe java RunnerTest em <i>src/test/java/runners</i>;
-- Clicar no ícone PLAY para executar o projeto de testes
-- 
+- Clicar no ícone PLAY para executar o projeto de testes.
+
+
 ## Relatório de execução dos cenários 
 
 <p>Os relatórios gerados, ao final da execução, se encontram em <i>/target/cucumber-reports/index.html</i></p>
