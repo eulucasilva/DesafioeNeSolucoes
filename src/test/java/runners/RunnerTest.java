@@ -11,7 +11,7 @@ import cucumber.api.junit.Cucumber;
         features = "classpath:Features",
         glue= {"stepdefinitions"},
         monochrome = true,
-        plugin = {"json:target/cucumber-report/cucumber.json"},
+        plugin = {"pretty", "html:target/cucumber-reports"},
         tags = {"@End2End"},
         dryRun = false,
         snippets = SnippetType.CAMELCASE

@@ -2,10 +2,13 @@
 
 ### Tópicos
 
-:small_blue_diamond: [Descrição do projeto](#descrição)
-:small_blue_diamond: [Técnicas e tecnologias utilizadas no projeto](#tcnicas-e-tecnologias-utilizadas)
-:small_blue_diamond: [Cenários de testes ](#cenrio-de-testes)
-:small_blue_diamond: [Pré-requisitos](#pr-requisitos)
+:small_blue_diamond: [Descrição do projeto](#descrição) </br>
+:small_blue_diamond: [Técnicas e tecnologias utilizadas no projeto](#tcnicas-e-tecnologias-utilizadas) </br>
+:small_blue_diamond: [Cenários de testes ](#cenrio-de-testes) </br>
+:small_blue_diamond: [Pré-requisitos](#pr-requisitos) </br>
+:small_blue_diamond: [Executando o projeto](#executando-o-projeto) </br>
+:small_blue_diamond: [Relatórios](#relatrio-de-execuo-dos-cenrios) </br>
+
 
 ## Descrição
 
@@ -26,7 +29,7 @@
 
 
 ## Cenário de testes
-<p>Segue abaixo alguns cenários de testes levantados para o projeto. Foram desenvolvidos em BDD e se encontra na pasta <i>/test/resources/Features</i>.</i></p>
+<p>Segue abaixo alguns cenários de testes levantados para o projeto. Foram desenvolvidos em BDD e se encontra na pasta <i>src/test/resources/Features</i>.</i></p>
 
 - **CT001** Validar busca de produto
 - **CT002** Validar busca de produto inexistente no catálogo
@@ -35,13 +38,26 @@
 - **CT005** Validar ordenação de produtos por ordem de Mais Vendidos
 
 ## Pré-requisitos
-<p>Para exxecutar o projeto na sua máquina, é necessário:</p>
+<p>Para executar o projeto na sua máquina, é necessário:</p>
 
 - JDK 8;
 - [Maven](https://maven.apache.org/download.cgi) configurado nas variáveis de ambiente ([tutorial aqui](https://medium.com/beelabacademy/configurando-vari%C3%A1veis-de-ambiente-java-home-e-maven-home-no-windows-e-unix-d9461f783c26))
+- Baixar e instalar o [Intellij Community Edition](https://www.jetbrains.com/pt-br/idea/download/download-thanks.html?platform=windows&code=IIC) 
+- Clonar o projeto na sua máquina através do comando git ou baixar o projeto, descompactá-lo e importar para o Intellij;
+- Localizar nos diretórios,
+- 
 
+## Executando o projeto
 
+<p>Para executar o projeto é necessário:</p>
 
+- Baixar as dependências do Maven no projeto (caso nao baixa automaticamente ao importar o projeto);
+- Localizar a classe java RunnerTest em <i>src/test/java/runners</i>;
+- Clicar no ícone PLAY para executar o projeto de testes
+- 
+## Relatório de execução dos cenários 
+
+<p>Os relatórios gerados, ao final da execução, se encontram em <i>/target/cucumber-reports/index.html</i></p>
 
 # Autor
 
